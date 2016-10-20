@@ -2,3 +2,6 @@
 StreamLines.iml
 *.pyc
 .DS_Store
+.eggs
+streamlines.egg-info
+dist/
